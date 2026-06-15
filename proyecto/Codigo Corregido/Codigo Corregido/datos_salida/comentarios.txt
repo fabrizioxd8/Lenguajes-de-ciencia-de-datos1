@@ -1,0 +1,374 @@
+ANÁLISIS DE SENTIMIENTO — EXPORTACIÓN COMPLETA
+Generado : 2026-06-10 15:03:03
+Total    : 41 comentarios
+========================================================================
+
+[0001] ID: 1
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : apurimac24
+       Texto limpio: apurimac24
+       Categoría  : NEUTRO
+       Puntuación : 0.0000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0002] ID: 3
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : atorrante adefecio ,tu eres de la misma calaña que el cerdo alcoholico sicopata  , gentuza que denigra que sangra al pais  ustedes delincuentes se aprovechan del poder y mantener el caos  por que les conviene, pero todo cambiara pronto
+       Texto limpio: atorrante adefecio tu eres de la misma calaña que el cerdo alcoholico sicopata gentuza que denigra que sangra al pais ustedes delincuentes se aprovechan del poder y mantener el caos por que les conviene pero todo cambiara pronto
+       Categoría  : MUY NEGATIVO
+       Puntuación : -3.9474
+       Palabras   : atorrante, adefecio, sicopata, gentuza, caos
+------------------------------------------------------------------------
+[0003] ID: 5
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Una razón más para que no pase López Aliaga!
+       Texto limpio: una razón más para que no pase lópez aliaga
+       Categoría  : NEUTRO
+       Puntuación : 0.0000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0004] ID: 7
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Fueera 🤡
+       Texto limpio: fueera
+       Categoría  : NEUTRO
+       Puntuación : 0.0000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0005] ID: 10
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : CALLA PAJERASO!!!
+       Texto limpio: calla pajeraso
+       Categoría  : MUY NEGATIVO
+       Puntuación : -25.0000
+       Palabras   : calla, pajeraso
+------------------------------------------------------------------------
+[0006] ID: 12
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Desencuentros son las mujeres que contratste tan amablemente
+       Texto limpio: desencuentros son las mujeres que contratste tan amablemente
+       Categoría  : NEUTRO
+       Puntuación : 0.0000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0007] ID: 13
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : zkorpyonzgreen
+       Texto limpio: zkorpyonzgreen
+       Categoría  : NEUTRO
+       Puntuación : 0.0000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0008] ID: 15
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Entre los dos primeros nisiqiera suman 40%
+       Texto limpio: entre los dos primeros nisiqiera suman 40
+       Categoría  : NEUTRO
+       Puntuación : 0.0000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0009] ID: 16
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : RG Trelles Cruz 🚶🐱
+       Texto limpio: rg trelles cruz
+       Categoría  : NEUTRO
+       Puntuación : 0.0000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0010] ID: 18
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Gracias por decirlo; el violador que fue presidente títere de la korrupción, si con esto no se dan cuenta los que piden votar por la kk, definitivamente están igual de enfermos que este violador degenerado
+       Texto limpio: gracias por decirlo el violador que fue presidente títere de la korrupción si con esto no se dan cuenta los que piden votar por la kk definitivamente están igual de enfermos que este violador degenerado
+       Categoría  : NEGATIVO
+       Puntuación : -1.7143
+       Palabras   : violador, violador
+------------------------------------------------------------------------
+[0011] ID: 19
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : tintamitu
+       Texto limpio: tintamitu
+       Categoría  : NEUTRO
+       Puntuación : 0.0000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0012] ID: 21
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Chupala pajeri
+       Texto limpio: chupala pajeri
+       Categoría  : MUY NEGATIVO
+       Puntuación : -15.0000
+       Palabras   : pajeri
+------------------------------------------------------------------------
+[0013] ID: 22
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Acuario ♒
+       Texto limpio: acuario
+       Categoría  : NEUTRO
+       Puntuación : 0.0000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0014] ID: 24
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Te prometió ponerte un ministerio ?
+       Texto limpio: te prometió ponerte un ministerio
+       Categoría  : NEUTRO
+       Puntuación : 0.0000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0015] ID: 25
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Libertario
+       Texto limpio: libertario
+       Categoría  : NEUTRO
+       Puntuación : 0.0000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0016] ID: 27
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Calla pajero de Mier…
+       Texto limpio: calla pajero de mier
+       Categoría  : MUY NEGATIVO
+       Puntuación : -12.5000
+       Palabras   : calla, pajero
+------------------------------------------------------------------------
+[0017] ID: 28
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Sanjina antifujimorista 🇵🇪
+       Texto limpio: sanjina antifujimorista
+       Categoría  : NEUTRO
+       Puntuación : 0.0000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0018] ID: 30
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Desde cuándo los pajeros pueden ser políticos?? Que ascoo
+       Texto limpio: desde cuándo los pajeros pueden ser políticos que ascoo
+       Categoría  : NEUTRO
+       Puntuación : 0.0000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0019] ID: 31
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : waldir
+       Texto limpio: waldir
+       Categoría  : NEUTRO
+       Puntuación : 0.0000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0020] ID: 33
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Fuera CTM... Tu y tu partido de mierda están muertos...
+       Texto limpio: fuera ctm tu y tu partido de mierda están muertos
+       Categoría  : MUY NEGATIVO
+       Puntuación : -8.0000
+       Palabras   : fuera, ctm, mierda
+------------------------------------------------------------------------
+[0021] ID: 34
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Juani
+       Texto limpio: juani
+       Categoría  : NEUTRO
+       Puntuación : 0.0000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0022] ID: 36
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : No necesitamos su comentario hipócrita.
+       Texto limpio: no necesitamos su comentario hipócrita
+       Categoría  : MUY NEGATIVO
+       Puntuación : -4.0000
+       Palabras   : hipócrita
+------------------------------------------------------------------------
+[0023] ID: 39
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Bien muestra madurez política y no es revanchista con RLA después de lo q le hizo
+       Texto limpio: bien muestra madurez política y no es revanchista con rla después de lo q le hizo
+       Categoría  : MUY POSITIVO
+       Puntuación : 2.5000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0024] ID: 40
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : AcaroDeCerdo
+       Texto limpio: acarodecerdo
+       Categoría  : NEUTRO
+       Puntuación : 0.0000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0025] ID: 42
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Tenías solo un solo trabajo y era resistir, y por jer0pa te vacaron... una vergüenza para el Perú
+       Texto limpio: tenías solo un solo trabajo y era resistir y por jer0pa te vacaron una vergüenza para el perú
+       Categoría  : NEGATIVO
+       Puntuación : -1.1111
+       Palabras   : vergüenza
+------------------------------------------------------------------------
+[0026] ID: 43
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : XVProxy
+       Texto limpio: xvproxy
+       Categoría  : NEUTRO
+       Puntuación : 0.0000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0027] ID: 45
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Lo dice el tipo que no supo mantener la cordura por unos meses y acabó siendo un sirviente inútil del congreso más desprestigiado de la historia del Perú. No llegó ni a presidente zoocrático, un niño gordo que se creyó guapo y acabó borrándose de nuestros libros.
+       Texto limpio: lo dice el tipo que no supo mantener la cordura por unos meses y acabó siendo un sirviente inútil del congreso más desprestigiado de la historia del perú no llegó ni a presidente zoocrático un niño gordo que se creyó guapo y acabó borrándose de nuestros libros
+       Categoría  : NEGATIVO
+       Puntuación : -0.4255
+       Palabras   : inútil
+------------------------------------------------------------------------
+[0028] ID: 46
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : javiersoria
+       Texto limpio: javiersoria
+       Categoría  : NEUTRO
+       Puntuación : 0.0000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0029] ID: 48
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Calla mierda, sigue en tu hueco
+       Texto limpio: calla mierda sigue en tu hueco
+       Categoría  : MUY NEGATIVO
+       Puntuación : -8.3333
+       Palabras   : calla, mierda
+------------------------------------------------------------------------
+[0030] ID: 50
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Pensando en el país, espero que termines en la cárcel, por estar favoreciendo a tus amigas ruflas. Pa la próxima, cacha con tu plata, no con la del Estado.
+       Texto limpio: pensando en el país espero que termines en la cárcel por estar favoreciendo a tus amigas ruflas pa la próxima cacha con tu plata no con la del estado
+       Categoría  : NEGATIVO
+       Puntuación : -1.7241
+       Palabras   : cárcel, ruflas
+------------------------------------------------------------------------
+[0031] ID: 51
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Jeannette
+       Texto limpio: jeannette
+       Categoría  : NEUTRO
+       Puntuación : 0.0000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0032] ID: 53
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : La fregaste, debiste haber hecho las cosas bien y las elecciones quedaban bien, sin cochinadas.
+       Texto limpio: la fregaste debiste haber hecho las cosas bien y las elecciones quedaban bien sin cochinadas
+       Categoría  : POSITIVO
+       Puntuación : 1.3333
+       Palabras   : fregaste
+------------------------------------------------------------------------
+[0033] ID: 55
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Calla ctm
+       Texto limpio: calla ctm
+       Categoría  : MUY NEGATIVO
+       Puntuación : -25.0000
+       Palabras   : calla, ctm
+------------------------------------------------------------------------
+[0034] ID: 57
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Calla jeropa!
+       Texto limpio: calla jeropa
+       Categoría  : MUY NEGATIVO
+       Puntuación : -10.0000
+       Palabras   : calla
+------------------------------------------------------------------------
+[0035] ID: 58
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Luis2023
+       Texto limpio: luis2023
+       Categoría  : NEUTRO
+       Puntuación : 0.0000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0036] ID: 60
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : CUANDO PU... PIENSAS EN EL PAÍS, PARTE DE LA KORRUPCION.
+       Texto limpio: cuando pu piensas en el país parte de la korrupcion
+       Categoría  : NEUTRO
+       Puntuación : 0.0000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0037] ID: 63
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : REPRESENTACIÓN DICE JAJAJAJAJAJAJAJAJA
+       Texto limpio: representación dice jajajajajajajajaja
+       Categoría  : NEUTRO
+       Puntuación : 0.0000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0038] ID: 64
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Tomahowk
+       Texto limpio: tomahowk
+       Categoría  : NEUTRO
+       Puntuación : 0.0000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0039] ID: 66
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : Pajero de mierda
+       Texto limpio: pajero de mierda
+       Categoría  : MUY NEGATIVO
+       Puntuación : -20.0000
+       Palabras   : pajero, mierda
+------------------------------------------------------------------------
+[0040] ID: 67
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : José Romero
+       Texto limpio: josé romero
+       Categoría  : NEUTRO
+       Puntuación : 0.0000
+       Palabras   : (ninguna)
+------------------------------------------------------------------------
+[0041] ID: 69
+       Usuario    : usuario_x
+       Fecha      : 2025-04-16
+       Texto orig : y cuándo te veremos preso, con el mismo deseo que te inhabiliten de modo eterno para que no ejerzas ningún cargo público.
+       Texto limpio: y cuándo te veremos preso con el mismo deseo que te inhabiliten de modo eterno para que no ejerzas ningún cargo público
+       Categoría  : NEGATIVO
+       Puntuación : -0.9091
+       Palabras   : preso
+------------------------------------------------------------------------
